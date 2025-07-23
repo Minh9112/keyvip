@@ -1,5 +1,6 @@
 {
   "valid_keys": [
     "minhdata"
-  ]
+  ],
+  "invalid_key_redirect_url": "https://www.youtube.com/@MinhDataa"
 }
